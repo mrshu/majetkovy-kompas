@@ -1,0 +1,23 @@
+{
+  "captured": 4,
+  "errors": 0,
+  "results": [
+    {
+      "status": "captured",
+      "user_id": "Alena.Kotvanova"
+    },
+    {
+      "status": "captured",
+      "user_id": "Jan.Kacmar"
+    },
+    {
+      "status": "captured",
+      "user_id": "Janka.Zalesakova"
+    },
+    {
+      "status": "captured",
+      "user_id": "Miroslav.Kocan"
+    }
+  ],
+  "total": 4
+}
