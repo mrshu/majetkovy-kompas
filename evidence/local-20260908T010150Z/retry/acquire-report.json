@@ -1,0 +1,19 @@
+{
+  "captured": 3,
+  "errors": 0,
+  "results": [
+    {
+      "status": "captured",
+      "user_id": "Katarina.Karolova"
+    },
+    {
+      "status": "captured",
+      "user_id": "Robert.Illes"
+    },
+    {
+      "status": "captured",
+      "user_id": "Tomas.Slavik"
+    }
+  ],
+  "total": 3
+}
