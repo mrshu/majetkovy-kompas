@@ -1,0 +1,8 @@
+{
+  "manifest_sha256": "ddf8e7b5d824fbad58d07568ec0ee76bb8f4a3c8b32dcf962eb9af13421dc2c1",
+  "query_path": "manifest.sha256.tsq",
+  "query_sha256": "d561346b432ff0f555fe3ba5f84d21bc9b6627dd13f81acf17b9fc261fa3ee3a",
+  "response_path": "manifest.sha256.tsr",
+  "response_sha256": "2309c1e605986b197b13ff43a65cda3740132941dc723daa180786f8ed464b34",
+  "tsa_url": "http://timestamp.digicert.com"
+}

@@ -1,0 +1,15 @@
+{
+  "captured": 2,
+  "errors": 0,
+  "results": [
+    {
+      "status": "captured",
+      "user_id": "Ivan.Gabauer"
+    },
+    {
+      "status": "captured",
+      "user_id": "Juraj.Petrakovič"
+    }
+  ],
+  "total": 2
+}
