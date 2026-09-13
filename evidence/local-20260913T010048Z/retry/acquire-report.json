@@ -1,0 +1,15 @@
+{
+  "captured": 2,
+  "errors": 0,
+  "results": [
+    {
+      "status": "captured",
+      "user_id": "Jana.Belcakova"
+    },
+    {
+      "status": "captured",
+      "user_id": "Martina.Kobilicova"
+    }
+  ],
+  "total": 2
+}
